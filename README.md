@@ -1,6 +1,6 @@
-# eCommerce App
+# E-Commerce Application
 
-This is a simple eCommerce app built with Flask and Docker.
+# This simple E-Commerce app is built with Flask and Docker.
 
 ## Features
 - Home page
